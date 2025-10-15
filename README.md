@@ -2,7 +2,17 @@
 
 ## Visão Geral
 
-Este projeto é um **Projeto Integrador** da **Univesp** (Universidade Virtual do Estado de São Paulo), do eixo de **Computação**. Trata-se de um software de gestão de estoque desenvolvido para gerenciar produtos em um armazém ou loja. A aplicação oferece uma interface web intuitiva para controlar o fluxo de itens, desde o cadastro inicial até a consulta de saldos e relatórios. O sistema permite realizar operações de CRUD (Create, Read, Update, Delete) em produtos e fornece ferramentas essenciais para o controle de inventário.
+Este projeto é um **Projeto Integrador** da **Univesp** (Universidade Virtual do Estado de São Paulo), do eixo de **Computação**. 
+
+Desenvolvido pelos alunos:
+- LEONARDO PIRES [(leo314res)](https://github.com/leo314res)
+- DENISE MATOS QUARESMA DE MORAIS
+- LEANDRO DO NASCIMENTO CABRAL
+
+Com o auxílio e constribuições de: 
+- ALFREDO DE MORAIS [(alfmorais)](https://github.com/alfmorais)
+
+Trata-se de um software de gestão de estoque desenvolvido para gerenciar produtos em um armazém ou loja. A aplicação oferece uma interface web intuitiva para controlar o fluxo de itens, desde o cadastro inicial até a consulta de saldos e relatórios. O sistema permite realizar operações de CRUD (Create, Read, Update, Delete) em produtos e fornece ferramentas essenciais para o controle de inventário.
 
 ---
 
